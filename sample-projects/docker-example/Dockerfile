@@ -1,1 +1,1 @@
-FROM ${lga0101}.jfrog.io/${VIRTUAL_REPO_NAME}/ubuntu:16.04
+FROM ${lga0101}.jfrog.io/${lga0101-docker}/ubuntu:16.04
